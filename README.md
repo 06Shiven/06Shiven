@@ -13,8 +13,8 @@ My focus is on developing practical solutions by integrating mechanical design, 
 ---
 
 ## Areas of Focus
-- **Current Projects:** Robotics Systems and Control Engineering
-- **Areas of Development:** Odometry, Control Theory, Web Development
+- **Ongoing Research:** Robotics and Control Systems
+- **Areas of Development:** Odometry, Control Theory, Web Development, App Development
 
 ---
 
