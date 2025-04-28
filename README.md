@@ -7,21 +7,20 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 
 ---
 
-## 🔭 Current Focus
-- **Working on:** Robotics Projects, Control Systems
-- **Exploring:** Odometry, PID Control, Web Development
+## 🎯 Current Focus
+- 🚀 **Working on:** Robotics Projects, Control Systems
+- 🔭 **Exploring:** Odometry, PID Control, Web Development
 
 ---
 
 ## 🛠️ Technical Skills
-
-- **Languages:** C++, HTML/CSS, Java, JavaScript, Python
-- **Developer Tools:** Eclipse, Git, RobotC, VS Code, VEXcode
-- **Technologies/Frameworks:** GitHub, Odometry, PID Control, Sorting Algorithms, WordPress, GNUPlot, GNU C Compiler
+- 💻 **Languages:** C++, HTML/CSS, Java, JavaScript, Python
+- 🛠️ **Developer Tools:** Eclipse, Git, RobotC, VS Code, VEXcode
+- 🔧 **Technologies/Frameworks:** GitHub, Odometry, PID Control, Sorting Algorithms, WordPress, GNUPlot, GNU C Compiler
 
 ---
 
-## 🛠️ Languages and Tools
+## 🖥️ Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,python,git,wordpress,vscode,github,docker,linux" />
@@ -29,11 +28,11 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
@@ -47,4 +46,12 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
   <a href="https://www.instagram.com/shiven._/">
     <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram" />
   </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=06Shiven&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
