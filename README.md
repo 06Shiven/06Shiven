@@ -1,23 +1,13 @@
+<!-- Scrolling Marquee Heading -->
 <p align="center">
-  <h1 style="color:white; animation: bounce 2s infinite;">Hi, I'm Shiven Jaiswal</h1>
-  <p style="color:white; animation: slidein 2s forwards;">Mechatronics Engineering Student at Toronto Metropolitan University</p>
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    🚀 Hi, I'm Shiven Jaiswal — Mechatronics Engineering Student @ Toronto Metropolitan University 🚀
+  </marquee>
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-}
-
-@keyframes slidein {
-  from { transform: translateX(-100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-</style>
 
 ---
 
-I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan University**, with a strong passion for robotics, autonomous systems, and tech innovation. Thanks for visiting my profile!
+I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan University**, passionate about robotics, autonomous systems, and innovation. Thanks for visiting my profile!
 
 ### 🔭 Current Focus
 - Working on: Robotics Projects, Control Systems
@@ -31,6 +21,14 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 
 ---
 
+### 🚀 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,python,git,wordpress,vscode,github,gnu,docker,linux" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -40,20 +38,26 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 
 ---
 
-### 🚀 Languages and Tools
+### 🌟 Fun Badges
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,java,js,python,git,wordpress" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,gnu,docker,linux" />
+  <img src="https://img.shields.io/badge/Mechatronics-Engineer-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics-Enthusiast-success?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/PID%20Control%20Mastery-Important?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/shiven-jaiswal/)
-- [Instagram](https://www.instagram.com/shiven._/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiven-jaiswal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/shiven._/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 ---
 
