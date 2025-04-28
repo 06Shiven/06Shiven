@@ -5,9 +5,6 @@
   </a>
 </p>
 
-# Hi, I'm Shiven Jaiswal
-### Mechatronics Engineering Student @ Toronto Metropolitan University
-
 ---
 
 I am currently pursuing Mechatronics Engineering at **Toronto Metropolitan University**, with a strong interest in robotics, autonomous systems, and technology-driven innovation.  
