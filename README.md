@@ -1,12 +1,10 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/06Shiven">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Robotics+Enthusiast;Welcome+to+my+GitHub!" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Robotics+Enthusiast;Welcome+to+my+GitHub!" alt="Typing Animation" />
   </a>
 </p>
 
-# Hi, I'm Shiven Jaiswal
-### Mechatronics Engineering Student @ Toronto Metropolitan University
 
 ---
 
