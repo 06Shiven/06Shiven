@@ -36,15 +36,16 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=default&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
 ## Status
 
-![Status](https://img.shields.io/badge/Currently_Working_On-Robotics_Projects-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Working_on_Robotics_Projects-blue?style=flat)
+
 
 ---
 
