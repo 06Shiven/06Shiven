@@ -1,9 +1,17 @@
+<!-- Glitch Banner at the top -->
+<p align="center">
+  <img src="https://media.giphy.com/media/I0vWx1WfKDPOk/giphy.gif" width="700" alt="Glitch Text" />
+</p>
+
+<!-- Typing Animation after Glitch -->
 <p align="center">
   <a href="https://github.com/06Shiven">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF,F72585,7209B7&center=true&vCenter=true&width=800&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Robotics+Enthusiast;Welcome+to+my+Glitched+Profile!" alt="Color-Shift Glitch Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Robotics+Enthusiast;Welcome+to+my+GitHub!" alt="Typing Animation" />
   </a>
 </p>
 
+# Hi, I'm Shiven Jaiswal 🚀
+### Mechatronics Engineering Student @ Toronto Metropolitan University
 
 ---
 
@@ -57,5 +65,5 @@ I’m currently pursuing Mechatronics Engineering at **Toronto Metropolitan Univ
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=06Shiven&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=06Shiven&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
