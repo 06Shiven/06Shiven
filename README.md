@@ -16,10 +16,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiven-jaiswal/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shiven%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/shiven._/">
-    <img src="https://img.shields.io/badge/Instagram-shiven._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101820" alt="LinkedIn"/>
   </a>
 </p>
 
