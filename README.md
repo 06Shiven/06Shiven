@@ -1,110 +1,128 @@
+````markdown
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/06Shiven">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Robotics+%26+Autonomous+Systems;Building+Projects+That+Move" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&repeat=true&lines=Hi%2C+I'm+Shiven+Jaiswal;Mechatronics+Engineering+Student;Building+Systems+That+Move%2C+Sense%2C+and+React;Robotics+%7C+Controls+%7C+AI+%7C+Automation" alt="Typing Animation" />
   </a>
 </p>
 
 ---
 
-# Hey, I'm Shiven Jaiswal
+<h1 align="center">Shiven Jaiswal</h1>
 
-I am a **Mechatronics Engineering student at Toronto Metropolitan University** with a strong interest in **robotics, autonomous systems, control systems, and practical engineering projects**.
+<h3 align="center">
+  Building systems that move, sense, and react.
+</h3>
 
-My goal is to build projects that combine **mechanical design, electronics, programming, and automation** to solve real-world problems. I enjoy working on systems that move, sense, react, and improve through code.
+<p align="center">
+  Mechatronics Engineering Student at <b>Toronto Metropolitan University</b>  
+  <br/>
+  Robotics • Autonomous Systems • Control Theory • AI • Automation
+</p>
 
 ---
 
 ## About Me
 
-- Studying **Mechatronics Engineering** at **Toronto Metropolitan University**
-- Experienced with **robotics, VEX, autonomous programming, odometry, and PID control**
-- Interested in **control systems, embedded systems, robotics, AI, and automation**
-- Currently building projects to improve my skills in **Python, C++, web development, and machine learning**
-- I like turning ideas into working prototypes and documenting the process
+I am a **Mechatronics Engineering student** focused on building projects that combine **mechanical systems, electronics, programming, and automation**.
+
+My main interests are in **robotics, autonomous systems, control systems, computer vision, and practical engineering tools**. I enjoy creating projects that are not just software on a screen, but systems that can sense, decide, move, and respond to the real world.
 
 ---
 
-## Areas of Focus
+## Current Focus
 
-- **Robotics and Autonomous Systems**
-- **Control Theory and PID Control**
-- **Odometry and Motion Tracking**
-- **Machine Learning and Deep Learning**
-- **Web and App Development**
-- **Embedded Systems and Automation**
+```txt
+Robotics              ████████████████████
+Control Systems       ██████████████████░░
+Machine Learning      ███████████████░░░░░
+Computer Vision       ███████████████░░░░░
+Web Development       █████████████████░░░
+Embedded Systems      ████████████░░░░░░░░
+````
 
 ---
 
-## Technical Skills
+## What I Build
+
+* **Robotics systems** involving autonomous movement, sensors, and control logic
+* **Computer vision tools** for tracking, detection, and real-time interaction
+* **Machine learning projects** for prediction, classification, and automation
+* **Web applications** for organizing workflows and solving practical problems
+* **Engineering tools** such as simulations, calculators, dashboards, and automation scripts
+
+---
+
+## Tech Stack
 
 ### Languages
-- C++
-- Python
-- Java
-- JavaScript
-- HTML/CSS
 
-### Developer Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- VEXcode
-- RobotC
-
-### Technologies and Concepts
-- PID Control
-- Odometry
-- Sorting Algorithms
-- WordPress
-- GNUPlot
-- GNU C Compiler
-- Linux
-- Docker
-
----
-
-## Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,git,github,vscode,docker,linux,wordpress" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
 </p>
 
+### Tools and Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,docker,wordpress" />
+</p>
+
+### Concepts
+
+```txt
+PID Control        | Odometry           | Autonomous Programming
+Control Theory     | Sorting Algorithms | Computer Vision
+Machine Learning   | Web Development    | Embedded Systems
+Robotics Design    | Automation         | Real-Time Systems
+```
+
 ---
 
-## Featured Project Areas
+## Featured Build Areas
 
-### Robotics
-Projects involving autonomous movement, sensors, control systems, and robot programming.
+### Robotics and Controls
 
-### Machine Learning
-Projects focused on prediction, classification, computer vision, and deep learning.
+Projects focused on motion, feedback, path tracking, autonomous routines, and sensor-based decision-making.
 
-### Web Development
-Frontend and backend projects using HTML, CSS, JavaScript, React, Firebase, and APIs.
+### AI and Machine Learning
 
-### Engineering Tools
-Small tools, simulations, calculators, and automation scripts built to solve practical problems.
+Projects involving deep learning, classification, prediction models, and computer vision systems.
+
+### Web and Software Tools
+
+Applications, dashboards, and workflow tools built using frontend, backend, and database technologies.
+
+### Engineering Automation
+
+Scripts and tools designed to automate calculations, organize data, or improve technical workflows.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=06Shiven&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=06Shiven&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=06Shiven&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## Currently Learning
 
-- Machine Learning and Deep Learning
-- Computer Vision
-- Embedded Systems
-- Advanced Control Systems
-- Full-stack development
+* Machine Learning and Deep Learning
+* Computer Vision
+* Embedded Systems
+* Advanced Control Systems
+* Full-stack Development
+* Real-time robotics applications
 
 ---
 
@@ -121,8 +139,7 @@ Small tools, simulations, calculators, and automation scripts built to solve pra
 
 ---
 
-## Profile Analytics
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=06Shiven&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+```
